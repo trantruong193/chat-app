@@ -1,0 +1,96 @@
+[debug] [2023-03-15T14:03:42.516Z] ----------------------------------------------------------------------
+[debug] [2023-03-15T14:03:42.518Z] Command:       /usr/local/bin/node /usr/local/bin/firebase emulators:start
+[debug] [2023-03-15T14:03:42.518Z] CLI Version:   11.24.1
+[debug] [2023-03-15T14:03:42.518Z] Platform:      darwin
+[debug] [2023-03-15T14:03:42.518Z] Node Version:  v16.17.0
+[debug] [2023-03-15T14:03:42.523Z] Time:          Wed Mar 15 2023 21:03:42 GMT+0700 (Indochina Time)
+[debug] [2023-03-15T14:03:42.523Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-03-15T14:03:42.539Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-03-15T14:03:42.539Z] > authorizing via signed-in user (trantruong193@gmail.com)
+[debug] [2023-03-15T14:03:47.544Z] Error: Timed out.
+    at Timeout._onTimeout (/usr/local/lib/node_modules/firebase-tools/lib/utils.js:253:49)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-03-15T14:03:51.691Z] ----------------------------------------------------------------------
+[debug] [2023-03-15T14:03:51.692Z] Command:       /usr/local/bin/node /usr/local/bin/firebase emulators:start
+[debug] [2023-03-15T14:03:51.692Z] CLI Version:   11.24.1
+[debug] [2023-03-15T14:03:51.692Z] Platform:      darwin
+[debug] [2023-03-15T14:03:51.692Z] Node Version:  v16.17.0
+[debug] [2023-03-15T14:03:51.693Z] Time:          Wed Mar 15 2023 21:03:51 GMT+0700 (Indochina Time)
+[debug] [2023-03-15T14:03:51.693Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-03-15T14:03:51.704Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-03-15T14:03:51.704Z] > authorizing via signed-in user (trantruong193@gmail.com)
+[debug] [2023-03-15T14:03:56.710Z] Error: Timed out.
+    at Timeout._onTimeout (/usr/local/lib/node_modules/firebase-tools/lib/utils.js:253:49)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-03-15T14:04:13.649Z] ----------------------------------------------------------------------
+[debug] [2023-03-15T14:04:13.650Z] Command:       /usr/local/bin/node /usr/local/bin/firebase emulators:start
+[debug] [2023-03-15T14:04:13.650Z] CLI Version:   11.24.1
+[debug] [2023-03-15T14:04:13.650Z] Platform:      darwin
+[debug] [2023-03-15T14:04:13.650Z] Node Version:  v16.17.0
+[debug] [2023-03-15T14:04:13.651Z] Time:          Wed Mar 15 2023 21:04:13 GMT+0700 (Indochina Time)
+[debug] [2023-03-15T14:04:13.651Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-03-15T14:04:13.663Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-03-15T14:04:13.663Z] > authorizing via signed-in user (trantruong193@gmail.com)
+[debug] [2023-03-15T14:04:18.668Z] Error: Timed out.
+    at Timeout._onTimeout (/usr/local/lib/node_modules/firebase-tools/lib/utils.js:253:49)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-03-15T14:08:38.079Z] ----------------------------------------------------------------------
+[debug] [2023-03-15T14:08:38.080Z] Command:       /usr/local/bin/node /usr/local/bin/firebase emulators:start
+[debug] [2023-03-15T14:08:38.080Z] CLI Version:   11.24.1
+[debug] [2023-03-15T14:08:38.080Z] Platform:      darwin
+[debug] [2023-03-15T14:08:38.080Z] Node Version:  v16.17.0
+[debug] [2023-03-15T14:08:38.083Z] Time:          Wed Mar 15 2023 21:08:38 GMT+0700 (Indochina Time)
+[debug] [2023-03-15T14:08:38.083Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-03-15T14:08:38.097Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-03-15T14:08:38.097Z] > authorizing via signed-in user (trantruong193@gmail.com)
+[debug] [2023-03-15T14:08:43.101Z] Error: Timed out.
+    at Timeout._onTimeout (/usr/local/lib/node_modules/firebase-tools/lib/utils.js:253:49)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-03-15T14:09:19.111Z] ----------------------------------------------------------------------
+[debug] [2023-03-15T14:09:19.112Z] Command:       /usr/local/bin/node /usr/local/bin/firebase emulators:start
+[debug] [2023-03-15T14:09:19.112Z] CLI Version:   11.24.1
+[debug] [2023-03-15T14:09:19.112Z] Platform:      darwin
+[debug] [2023-03-15T14:09:19.112Z] Node Version:  v16.17.0
+[debug] [2023-03-15T14:09:19.112Z] Time:          Wed Mar 15 2023 21:09:19 GMT+0700 (Indochina Time)
+[debug] [2023-03-15T14:09:19.113Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-03-15T14:09:19.123Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-03-15T14:09:19.123Z] > authorizing via signed-in user (trantruong193@gmail.com)
+[debug] [2023-03-15T14:09:24.127Z] Error: Timed out.
+    at Timeout._onTimeout (/usr/local/lib/node_modules/firebase-tools/lib/utils.js:253:49)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-03-15T14:11:20.951Z] ----------------------------------------------------------------------
+[debug] [2023-03-15T14:11:20.951Z] Command:       /usr/local/bin/node /usr/local/bin/firebase emulators:start
+[debug] [2023-03-15T14:11:20.952Z] CLI Version:   11.24.1
+[debug] [2023-03-15T14:11:20.952Z] Platform:      darwin
+[debug] [2023-03-15T14:11:20.952Z] Node Version:  v16.17.0
+[debug] [2023-03-15T14:11:20.952Z] Time:          Wed Mar 15 2023 21:11:20 GMT+0700 (Indochina Time)
+[debug] [2023-03-15T14:11:20.953Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-03-15T14:11:20.962Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-03-15T14:11:20.963Z] > authorizing via signed-in user (trantruong193@gmail.com)
+[debug] [2023-03-15T14:11:25.967Z] Error: Timed out.
+    at Timeout._onTimeout (/usr/local/lib/node_modules/firebase-tools/lib/utils.js:253:49)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[error] 
+[error] Error: An unexpected error has occurred.
