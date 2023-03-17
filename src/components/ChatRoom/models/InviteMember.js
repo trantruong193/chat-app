@@ -3,7 +3,7 @@ import {Avatar, Form, Modal, Select, Spin} from "antd";
 import {AppContext} from "../../../context/AppProvider";
 import {debounce} from "lodash";
 import {db} from "../../../firebase/config";
-import {collection, getDocs, query, where,getDoc,doc,updateDoc} from "firebase/firestore";
+import {collection, getDocs, query, where,doc,updateDoc} from "firebase/firestore";
 
 
 function DebounceSelect({fetchOptions,delayMs=300,...props}){
